@@ -1,2 +1,20 @@
-hello, world.
-请搞下github desktop.
+Some Usages About Github Desktop
+
+1. Please open the website above and download the software.
+https://desktop.github.com/
+
+(哦，不会英文)
+
+2. 界面
+
+2.1、顶部工具栏有许多命令，能创建仓库、推送或拉取等操作。
+
+还有其下的，从左往右：当前本地仓库、当前远程分支、Fetch origin（点击即可将记录同步到Github主页）。
+
+2.2、界面左侧：
+
+上面是有Changes，如果有修改的文件，可以往下面看有 Commit to main(分支名)，应该不会忘了这是提交到本地仓库的意思吧；
+
+然后，工具栏 -> Repository -> Pull，推送。
+
+3. There are other functions, please explore them yourself. It will not be summarized here.（自行探索，百度您值得拥有）
