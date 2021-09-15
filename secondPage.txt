@@ -18,3 +18,5 @@ https://desktop.github.com/
 然后，工具栏 -> Repository -> Pull，推送。
 
 3. There are other functions, please explore them yourself. It will not be summarized here.（自行探索，百度您值得拥有）
+
+By the way, the net is a little jammed.
